@@ -1,2 +1,1 @@
-# sod-raid-guides
-Raid guides for WoW Season of Discovery.
+# [Raid guides for WoW Season of Discovery](https://github.com/Yttrium-tYcLief/sod-raid-guides/wiki)
